@@ -1,5 +1,5 @@
 this is the test of life
 
-Some other files are added
+Some other files are deleted
 
 Now in the test branch
